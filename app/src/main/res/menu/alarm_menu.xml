@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_alarm"
+        android:title="공연 종료 알림" />
+    <item
+        android:id="@+id/alarm_bookmark"
+        android:title="즐겨찾기" />
+    <item
+        android:id="@+id/alarm_review"
+        android:title="나의 리뷰" />
+</menu>
